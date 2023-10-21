@@ -3,10 +3,9 @@ package com.boards.member.entity;
 import com.boards.member.dto.MemberDTO;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.PostMapping;
 
 import javax.persistence.*;
+
 
 @Entity
 @Setter
